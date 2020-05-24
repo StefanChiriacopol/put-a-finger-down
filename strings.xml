@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Put a finger down</string>
+    <string name="CategoryTitleSchool1">School</string>
+    <string name="CategoryDetailsSchool1">Set 1</string>
+    <string name="CategoryDetailsSchool2">Set 2</string>
+</resources>
